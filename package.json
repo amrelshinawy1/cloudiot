@@ -1,0 +1,19 @@
+{
+  "name": "cloudiot",
+  "version": "1.0.0",
+  "description": "this package used to connect device with my cloud iot platform ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrelshinawy1/cloudiot.git"
+  },
+  "author": "cloudiot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amrelshinawy1/cloudiot/issues"
+  },
+  "homepage": "https://github.com/amrelshinawy1/cloudiot#readme"
+}
